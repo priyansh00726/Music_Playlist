@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Music-FX.iml" filepath="$PROJECT_DIR$/Music-FX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co.pricom.common/co.pricom.common.iml" filepath="$PROJECT_DIR$/co.pricom.common/co.pricom.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co.pricom.db/co.pricom.db.iml" filepath="$PROJECT_DIR$/co.pricom.db/co.pricom.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co.pricom.ui/co.pricom.ui.iml" filepath="$PROJECT_DIR$/co.pricom.ui/co.pricom.ui.iml" />
+    </modules>
+  </component>
+</project>
